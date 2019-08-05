@@ -1,10 +1,10 @@
 {
   "tokenColors": [
-    {
-      "settings": {
-        "foreground": "#F1F2F3"
-      }
-    },
+    // {
+    //   "settings": {
+    //     "foreground": "#F1F2F3"
+    //   }
+    // },
     {
       "name": "Comment",
       "scope": "comment",
