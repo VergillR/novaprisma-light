@@ -110,8 +110,8 @@
       "name": "variable",
       "scope": ["entity.name.tag.localname", "entity.name.type.class"],
       "settings": {
-        "fontStyle": "",
-        "foreground": "#00B7FF"
+        "fontStyle": "bold",
+        "foreground": "#1b53ec"
       }
     },
     {
